@@ -4,4 +4,5 @@ Esse Repositório é composto por algumas atividades desenvolvidas em Python par
 
 <br/>
 
-![Motivos para assistir Tal m_e, tal filha - Gilmore Girls GIF 'Rory studyholic'](https://user-images.githubusercontent.com/112733274/231838044-d5ca232b-b406-41c6-8d97-da96793cba47.gif)
+
+![gilmoregirls](https://user-images.githubusercontent.com/112733274/231838966-ea885375-564b-40e6-ad52-f59609f0d26c.gif)
