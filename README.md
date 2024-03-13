@@ -4,5 +4,6 @@ Esse Repositório é composto por algumas atividades desenvolvidas em Python par
 
 <br/>
 
+O que é Python?
+O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
 
-![gilmoregirls](https://user-images.githubusercontent.com/112733274/231838966-ea885375-564b-40e6-ad52-f59609f0d26c.gif)
